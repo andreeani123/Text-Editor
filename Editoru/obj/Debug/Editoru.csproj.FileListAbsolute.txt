@@ -1,0 +1,50 @@
+C:\Users\adial\Desktop\Editoru\Editoru\bin\Debug\Editoru.exe.config
+C:\Users\adial\Desktop\Editoru\Editoru\bin\Debug\Editoru.exe
+C:\Users\adial\Desktop\Editoru\Editoru\bin\Debug\Editoru.pdb
+C:\Users\adial\Desktop\Editoru\Editoru\obj\Debug\Editoru.csprojAssemblyReference.cache
+C:\Users\adial\Desktop\Editoru\Editoru\obj\Debug\Editoru.Form1.resources
+C:\Users\adial\Desktop\Editoru\Editoru\obj\Debug\Editoru.Properties.Resources.resources
+C:\Users\adial\Desktop\Editoru\Editoru\obj\Debug\Editoru.csproj.GenerateResource.cache
+C:\Users\adial\Desktop\Editoru\Editoru\obj\Debug\Editoru.csproj.CoreCompileInputs.cache
+C:\Users\adial\Desktop\Editoru\Editoru\obj\Debug\Editoru.exe
+C:\Users\adial\Desktop\Editoru\Editoru\obj\Debug\Editoru.pdb
+C:\Users\adial\Desktop\Editoru - Copy\Editoru\bin\Debug\Editoru.exe.config
+C:\Users\adial\Desktop\Editoru - Copy\Editoru\bin\Debug\Editoru.exe
+C:\Users\adial\Desktop\Editoru - Copy\Editoru\bin\Debug\Editoru.pdb
+C:\Users\adial\Desktop\Editoru - Copy\Editoru\obj\Debug\Editoru.csprojAssemblyReference.cache
+C:\Users\adial\Desktop\Editoru - Copy\Editoru\obj\Debug\Editoru.Form1.resources
+C:\Users\adial\Desktop\Editoru - Copy\Editoru\obj\Debug\Editoru.Properties.Resources.resources
+C:\Users\adial\Desktop\Editoru - Copy\Editoru\obj\Debug\Editoru.csproj.GenerateResource.cache
+C:\Users\adial\Desktop\Editoru - Copy\Editoru\obj\Debug\Editoru.csproj.CoreCompileInputs.cache
+C:\Users\adial\Desktop\Editoru - Copy\Editoru\obj\Debug\Editoru.exe
+C:\Users\adial\Desktop\Editoru - Copy\Editoru\obj\Debug\Editoru.pdb
+C:\Users\adial\Desktop\Editoru v2.0\Editoru\bin\Debug\Editoru.exe.config
+C:\Users\adial\Desktop\Editoru v2.0\Editoru\bin\Debug\Editoru.exe
+C:\Users\adial\Desktop\Editoru v2.0\Editoru\bin\Debug\Editoru.pdb
+C:\Users\adial\Desktop\Editoru v2.0\Editoru\obj\Debug\Editoru.csprojAssemblyReference.cache
+C:\Users\adial\Desktop\Editoru v2.0\Editoru\obj\Debug\Editoru.Form1.resources
+C:\Users\adial\Desktop\Editoru v2.0\Editoru\obj\Debug\Editoru.Properties.Resources.resources
+C:\Users\adial\Desktop\Editoru v2.0\Editoru\obj\Debug\Editoru.csproj.GenerateResource.cache
+C:\Users\adial\Desktop\Editoru v2.0\Editoru\obj\Debug\Editoru.csproj.CoreCompileInputs.cache
+C:\Users\adial\Desktop\Editoru v2.0\Editoru\obj\Debug\Editoru.exe
+C:\Users\adial\Desktop\Editoru v2.0\Editoru\obj\Debug\Editoru.pdb
+C:\Users\adial\Desktop\Chestii\Editoru v2.0\Editoru\bin\Debug\Editoru.exe.config
+C:\Users\adial\Desktop\Chestii\Editoru v2.0\Editoru\bin\Debug\Editoru.exe
+C:\Users\adial\Desktop\Chestii\Editoru v2.0\Editoru\bin\Debug\Editoru.pdb
+C:\Users\adial\Desktop\Chestii\Editoru v2.0\Editoru\obj\Debug\Editoru.csprojAssemblyReference.cache
+C:\Users\adial\Desktop\Chestii\Editoru v2.0\Editoru\obj\Debug\Editoru.Form1.resources
+C:\Users\adial\Desktop\Chestii\Editoru v2.0\Editoru\obj\Debug\Editoru.Properties.Resources.resources
+C:\Users\adial\Desktop\Chestii\Editoru v2.0\Editoru\obj\Debug\Editoru.csproj.GenerateResource.cache
+C:\Users\adial\Desktop\Chestii\Editoru v2.0\Editoru\obj\Debug\Editoru.csproj.CoreCompileInputs.cache
+C:\Users\adial\Desktop\Chestii\Editoru v2.0\Editoru\obj\Debug\Editoru.exe
+C:\Users\adial\Desktop\Chestii\Editoru v2.0\Editoru\obj\Debug\Editoru.pdb
+C:\Users\andre\Desktop\faculta\POO\lab5\Editoru v2.0\Editoru\bin\Debug\Editoru.exe.config
+C:\Users\andre\Desktop\faculta\POO\lab5\Editoru v2.0\Editoru\bin\Debug\Editoru.exe
+C:\Users\andre\Desktop\faculta\POO\lab5\Editoru v2.0\Editoru\bin\Debug\Editoru.pdb
+C:\Users\andre\Desktop\faculta\POO\lab5\Editoru v2.0\Editoru\obj\Debug\Editoru.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\faculta\POO\lab5\Editoru v2.0\Editoru\obj\Debug\Editoru.Form1.resources
+C:\Users\andre\Desktop\faculta\POO\lab5\Editoru v2.0\Editoru\obj\Debug\Editoru.Properties.Resources.resources
+C:\Users\andre\Desktop\faculta\POO\lab5\Editoru v2.0\Editoru\obj\Debug\Editoru.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\faculta\POO\lab5\Editoru v2.0\Editoru\obj\Debug\Editoru.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\faculta\POO\lab5\Editoru v2.0\Editoru\obj\Debug\Editoru.exe
+C:\Users\andre\Desktop\faculta\POO\lab5\Editoru v2.0\Editoru\obj\Debug\Editoru.pdb
